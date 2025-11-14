@@ -9,6 +9,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@fontsource-variable/roboto-mono": "^5.2.8",
     "astro": "^5.15.6"
   }
 }
